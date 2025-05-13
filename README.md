@@ -1,2 +1,1 @@
-# BDDrestaurant
-Base de donnée pour le restaurant PHP admin
+Base de donnée pour gérer les enregistrements du restaurants, les restaurants, les images, utilisateurs.
